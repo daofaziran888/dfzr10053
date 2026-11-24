@@ -1,4 +1,7 @@
-"""归档实例领域服务：保留期检查、可回取判定与销毁管理。"""
+"""归档实例·归档管理，产出归档记录数据集。
+
+领域方法：保留期检查、可回取判定与销毁管理。
+"""
 from __future__ import annotations
 
 from typing import Any

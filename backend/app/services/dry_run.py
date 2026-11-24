@@ -1,4 +1,7 @@
-"""预演跑领域服务：预估校验、预演覆盖率计算与结果评审。"""
+"""预演跑·计算管理，产出预演单数据集。
+
+领域方法：预估校验、预演覆盖率计算与结果评审。
+"""
 from __future__ import annotations
 
 from typing import Any

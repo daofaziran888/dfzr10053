@@ -1,4 +1,7 @@
-"""传播追踪领域服务：路径分析、深度检查与变更范围汇总。"""
+"""传播追踪·关联管理，产出追踪明细数据集。
+
+领域方法：路径分析、深度检查与变更范围汇总。
+"""
 from __future__ import annotations
 
 from typing import Any

@@ -1,4 +1,7 @@
-"""上游信号领域服务：就绪判定、超时检测与信号消费状态查询。"""
+"""上游信号·接入管理，产出信号记录数据集。
+
+领域方法：就绪判定、超时检测与信号消费状态查询。
+"""
 from __future__ import annotations
 
 from typing import Any

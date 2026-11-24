@@ -1,4 +1,7 @@
-"""资源配额领域服务：并发度校验、超限判定与排队计算。"""
+"""资源配额·计算管理，产出配额条目数据集。
+
+领域方法：并发度校验、超限判定与排队计算。
+"""
 from __future__ import annotations
 
 from typing import Any

@@ -1,4 +1,7 @@
-"""失败重跑领域服务：重跑策略判定、重试次数校验与恢复确认。"""
+"""失败重跑·校验管理，产出重跑单数据集。
+
+领域方法：重跑策略判定、重试次数校验与恢复确认。
+"""
 from __future__ import annotations
 
 from typing import Any

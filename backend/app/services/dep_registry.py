@@ -1,4 +1,7 @@
-"""依赖登记领域服务：上下游关系管理、拓扑判定与依赖冲突检测。"""
+"""依赖登记·校验管理，产出依赖条目数据集。
+
+领域方法：上下游关系管理、拓扑判定与环路检测。
+"""
 from __future__ import annotations
 
 from typing import Any

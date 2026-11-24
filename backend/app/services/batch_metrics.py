@@ -1,4 +1,7 @@
-"""批次指标领域服务：指标对比、趋势分析和健康度评分。"""
+"""批次指标·聚合管理，产出指标快照数据集。
+
+领域方法：指标对比、趋势分析和健康度评分。
+"""
 from __future__ import annotations
 
 from typing import Any

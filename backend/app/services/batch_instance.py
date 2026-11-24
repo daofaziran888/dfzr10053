@@ -1,4 +1,7 @@
-"""批次实例领域服务：状态判定、上游校验与日切。"""
+"""批次实例·校验管理，产出批次实例数据集。
+
+领域方法：状态判定、上游校验与按日切分统计。
+"""
 from __future__ import annotations
 
 from typing import Any

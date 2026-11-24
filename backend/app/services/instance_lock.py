@@ -1,4 +1,7 @@
-"""实例锁领域服务：获取/释放/续期/抢占全生命周期管理。"""
+"""实例锁·校验管理，产出锁记录数据集。
+
+领域方法：获取、释放、续期与抢占的全生命周期管理。
+"""
 from __future__ import annotations
 
 from typing import Any

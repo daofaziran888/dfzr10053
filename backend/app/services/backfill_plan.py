@@ -1,4 +1,7 @@
-"""补数计划领域服务：范围判定、传播深度校验与审批状态汇总。"""
+"""补数计划·校验管理，产出补数单数据集。
+
+领域方法：范围判定、传播深度校验与审批状态汇总。
+"""
 from __future__ import annotations
 
 from typing import Any

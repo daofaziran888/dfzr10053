@@ -1,4 +1,7 @@
-"""SLA目标领域服务：时效校验、偏差统计与达标率计算。"""
+"""SLA目标·校验管理，产出目标条目数据集。
+
+领域方法：时效校验、偏差统计与达标率计算。
+"""
 from __future__ import annotations
 
 from typing import Any

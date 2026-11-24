@@ -1,4 +1,7 @@
-"""运行编排领域服务：编排轮次分析、跳过原因汇总与异常检测。"""
+"""运行编排·校验管理，产出编排记录数据集。
+
+领域方法：编排轮次分析、跳过原因汇总与异常检测。
+"""
 from __future__ import annotations
 
 from typing import Any

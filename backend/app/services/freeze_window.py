@@ -1,4 +1,7 @@
-"""冻结窗口领域服务：时间范围校验、拦截判定与窗口重叠检测。"""
+"""冻结窗口·校验管理，产出窗口条目数据集。
+
+领域方法：时间范围校验、拦截判定与窗口重叠检测。
+"""
 from __future__ import annotations
 
 from typing import Any

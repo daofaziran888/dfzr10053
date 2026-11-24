@@ -1,4 +1,7 @@
-"""优先级规则领域服务：权重排序、条件匹配与准入排队。"""
+"""优先级规则·调度管理，产出规则条目数据集。
+
+领域方法：权重排序、条件匹配与准入排队。
+"""
 from __future__ import annotations
 
 from typing import Any

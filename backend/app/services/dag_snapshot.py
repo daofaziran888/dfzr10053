@@ -1,4 +1,7 @@
-"""DAG快照领域服务：版本化图管理、拓扑层级查询与边校验。"""
+"""DAG快照·校验管理，产出图快照数据集。
+
+领域方法：版本化图管理、拓扑层级查询与边校验。
+"""
 from __future__ import annotations
 
 from typing import Any

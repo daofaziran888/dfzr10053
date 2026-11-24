@@ -1,4 +1,7 @@
-"""队列调度领域服务：准入拒绝分析、排队统计与调度效率评估。"""
+"""队列调度·调度管理，产出调度记录数据集。
+
+领域方法：准入拒绝分析、排队统计与调度效率评估。
+"""
 from __future__ import annotations
 
 from typing import Any

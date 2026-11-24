@@ -1,4 +1,7 @@
-"""基线预警领域服务：分级汇总、处置跟踪与解除状态校验。"""
+"""基线预警·计算管理，产出预警记录数据集。
+
+领域方法：分级汇总、处置跟踪与解除状态校验。
+"""
 from __future__ import annotations
 
 from typing import Any
