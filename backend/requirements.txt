@@ -1,4 +1,5 @@
 # 2026-11-15 在 Python 3.13 干净环境实际安装并通过全栈 E2E 的完整锁定版本。
+pytest>=7.0
 annotated-doc==0.0.6
 annotated-types==0.8.0
 anyio==4.16.0
